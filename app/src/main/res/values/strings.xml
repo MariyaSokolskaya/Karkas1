@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Karkas1</string>
+    <string name="splash">Экран загрузки</string>
+    <string name="main">Главный экран</string>
+    <string name="about">О программе</string>
+    <string name="load">Загрузка...</string>
+</resources>
